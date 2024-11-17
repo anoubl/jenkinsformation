@@ -3,7 +3,7 @@ public class Main {
     // Méthode principale
     public static void main(String[] args) {
         // Affiche un message de bienvenue
-        System.out.println("Bonjour, bienvenue dans le programme Java!");
+        System.out.println("Bonjour, bienvenue dans le programme Java 2025!");
 
         // Exemple d'utilisation : Calcul de la somme de deux nombres
         int a = 5;
